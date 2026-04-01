@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdellah El Mennaoui</h1>
-<h3 align="center">A passionate Machine Learning and data science from France</h3>
+<h3 align="center">A passionate Machine Learning and data science engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=11abdellah11&label=Profile%20views&color=0e75b6&style=flat" alt="11abdellah11" /> </p>
 
