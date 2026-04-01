@@ -33,10 +33,29 @@ Working on neural image compression, representation learning, and efficient visi
 
 ## 📄 Publications
 
-- **ICPR 2026** — Variance-Normalized Latent Distillation for Domain-Specific Learned Image Compression  
-- **ICIP** — Learned image compression research  
-- **DCC** — Neural image compression and representation learning  
+### 2026
 
+- **ECCV 2026**  
+  *When the Teacher Has More Bits: Self-Teacher Latent Distillation for Learned Image Compression*  
+  Abdellah El Mennaoui et al.
+
+- **ICPR 2026**  
+  *Variance-Normalized Latent Distillation (VLD) for Domain-Specific Learned Image Compression under JPEG AI Constraints*  
+  Abdellah El Mennaoui et al.
+
+### 2025
+
+- **LIM 2025**  
+  *Noise-Aware Encoder Training and Specialized Denoiser for Efficient JPEG AI Compression and Denoising*  
+  Abdellah El Mennaoui et al.
+
+- **ICIP 2025**  
+  *Category-Dependent Learned Image Compression for Smartphone Photography with Standard-Compliant Decoders*  
+  Abdellah El Mennaoui et al.
+
+- **DCC 2025**  
+  *Optimized Image Compression for Mobile Photography*  
+  Abdellah El Mennaoui et al.
 More details in my repositories and upcoming papers.
 
 ---
@@ -47,7 +66,6 @@ Some topics you will find in my repositories:
 
 - PyTorch implementations of learned image compression models
 - Training pipelines for neural codecs
-- Rate–distortion evaluation tools (PSNR, MS-SSIM, BD-rate)
 - Research experiments on distillation and representation learning
 
 GitHub:  
@@ -84,14 +102,4 @@ Linux • Git • Docker • LaTeX • Research Experiment Pipelines
 </a>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=11abdellah11&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=11abdellah11&show_icons=true&layout=compact" />
-</p>
